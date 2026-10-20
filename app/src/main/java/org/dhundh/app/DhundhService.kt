@@ -108,7 +108,7 @@ class DhundhService : Service(), LocationListener, SensorEventListener {
         fix = location
         val t = SystemClock.elapsedRealtime() / 1000.0
         val event = detector.onSpeed(t, location.speed.toDouble())
-        Status.update { it.copy(speedKmh = location.speed * 3.6, gpsAccuracyM = location.accuracy) }
+        Status.update { it.copy(speedKmh = location.speed * 3.6f, gpsAccuracyM = location.accuracy) }
         if (event != null) send(event, detector.recentDecel(t))
     }
 
