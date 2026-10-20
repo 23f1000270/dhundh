@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dhundh</string>
+    <string name="title">Dhundh</string>
+    <string name="tagline">Hear about hard braking ahead before you can see it.</string>
+    <string name="start">Start listening</string>
+    <string name="stop">Stop</string>
+    <string name="send_test">Send a test warning</string>
+    <string name="status_stopped">Not running. Start it before you drive.</string>
+    <string name="status_running">Listening. %1$d km/h. Sent %2$d, heard %3$d.</string>
+    <string name="radio_coded">Long-range Bluetooth is available on this phone.</string>
+    <string name="radio_1m">This phone has no long-range Bluetooth, so warnings reach a shorter distance.</string>
+    <string name="radio_unsupported">This phone cannot send Dhundh warnings, but it can still hear them.</string>
+    <string name="need_permissions">Dhundh needs location and nearby-devices permission to work.</string>
+</resources>

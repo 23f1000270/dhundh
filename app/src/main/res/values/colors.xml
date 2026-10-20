@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fog">#E4E6E3</color>
+    <color name="ink">#1C2321</color>
+    <color name="ink_soft">#5A625F</color>
+    <color name="amber">#F5A524</color>
+    <color name="amber_dark">#B26A00</color>
+</resources>

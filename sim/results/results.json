@@ -1,0 +1,326 @@
+[
+ {
+  "profile": "typical",
+  "visibility_m": 25.0,
+  "equipped": 0.0,
+  "runs": 40,
+  "collisions_mean": 39.7,
+  "collisions_sd": 0.9273618495495705,
+  "severe_mean": 38.775
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 25.0,
+  "equipped": 0.1,
+  "runs": 40,
+  "collisions_mean": 38.175,
+  "collisions_sd": 2.279117153636469,
+  "severe_mean": 36.6
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 25.0,
+  "equipped": 0.25,
+  "runs": 40,
+  "collisions_mean": 32.025,
+  "collisions_sd": 4.13211507584191,
+  "severe_mean": 28.575
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 25.0,
+  "equipped": 0.5,
+  "runs": 40,
+  "collisions_mean": 21.1,
+  "collisions_sd": 4.504442251822083,
+  "severe_mean": 15.9
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 25.0,
+  "equipped": 0.75,
+  "runs": 40,
+  "collisions_mean": 10.85,
+  "collisions_sd": 3.48245602987317,
+  "severe_mean": 6.2
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 25.0,
+  "equipped": 1.0,
+  "runs": 40,
+  "collisions_mean": 1.575,
+  "collisions_sd": 1.3944084767384342,
+  "severe_mean": 0.325
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 40.0,
+  "equipped": 0.0,
+  "runs": 40,
+  "collisions_mean": 34.725,
+  "collisions_sd": 2.5979559272628165,
+  "severe_mean": 28.25
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 40.0,
+  "equipped": 0.1,
+  "runs": 40,
+  "collisions_mean": 33.35,
+  "collisions_sd": 2.770830200499482,
+  "severe_mean": 26.525
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 40.0,
+  "equipped": 0.25,
+  "runs": 40,
+  "collisions_mean": 26.8,
+  "collisions_sd": 5.134199061197375,
+  "severe_mean": 19.75
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 40.0,
+  "equipped": 0.5,
+  "runs": 40,
+  "collisions_mean": 13.975,
+  "collisions_sd": 4.28069795710933,
+  "severe_mean": 8.4
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 40.0,
+  "equipped": 0.75,
+  "runs": 40,
+  "collisions_mean": 5.95,
+  "collisions_sd": 3.065534211193866,
+  "severe_mean": 2.625
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 40.0,
+  "equipped": 1.0,
+  "runs": 40,
+  "collisions_mean": 1.2,
+  "collisions_sd": 1.0295630140987,
+  "severe_mean": 0.25
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 60.0,
+  "equipped": 0.0,
+  "runs": 40,
+  "collisions_mean": 11.225,
+  "collisions_sd": 3.2518264098810685,
+  "severe_mean": 4.475
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 60.0,
+  "equipped": 0.1,
+  "runs": 40,
+  "collisions_mean": 10.5,
+  "collisions_sd": 3.0413812651491097,
+  "severe_mean": 4.05
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 60.0,
+  "equipped": 0.25,
+  "runs": 40,
+  "collisions_mean": 8.85,
+  "collisions_sd": 3.021175268004159,
+  "severe_mean": 3.175
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 60.0,
+  "equipped": 0.5,
+  "runs": 40,
+  "collisions_mean": 4.9,
+  "collisions_sd": 2.130727575266252,
+  "severe_mean": 1.85
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 60.0,
+  "equipped": 0.75,
+  "runs": 40,
+  "collisions_mean": 2.05,
+  "collisions_sd": 1.377497731395591,
+  "severe_mean": 0.7
+ },
+ {
+  "profile": "typical",
+  "visibility_m": 60.0,
+  "equipped": 1.0,
+  "runs": 40,
+  "collisions_mean": 0.3,
+  "collisions_sd": 0.45825756949558394,
+  "severe_mean": 0.1
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 25.0,
+  "equipped": 0.0,
+  "runs": 40,
+  "collisions_mean": 17.2,
+  "collisions_sd": 4.190465367951392,
+  "severe_mean": 7.825
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 25.0,
+  "equipped": 0.1,
+  "runs": 40,
+  "collisions_mean": 17.175,
+  "collisions_sd": 4.652351555933837,
+  "severe_mean": 7.625
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 25.0,
+  "equipped": 0.25,
+  "runs": 40,
+  "collisions_mean": 14.075,
+  "collisions_sd": 4.076686767462028,
+  "severe_mean": 5.675
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 25.0,
+  "equipped": 0.5,
+  "runs": 40,
+  "collisions_mean": 7.325,
+  "collisions_sd": 2.9948914838437806,
+  "severe_mean": 3.45
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 25.0,
+  "equipped": 0.75,
+  "runs": 40,
+  "collisions_mean": 2.65,
+  "collisions_sd": 2.3510635891017495,
+  "severe_mean": 1.25
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 25.0,
+  "equipped": 1.0,
+  "runs": 40,
+  "collisions_mean": 0.0,
+  "collisions_sd": 0.0,
+  "severe_mean": 0.0
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 40.0,
+  "equipped": 0.0,
+  "runs": 40,
+  "collisions_mean": 0.525,
+  "collisions_sd": 0.7066647012551285,
+  "severe_mean": 0.25
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 40.0,
+  "equipped": 0.1,
+  "runs": 40,
+  "collisions_mean": 0.5,
+  "collisions_sd": 0.7071067811865476,
+  "severe_mean": 0.225
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 40.0,
+  "equipped": 0.25,
+  "runs": 40,
+  "collisions_mean": 0.65,
+  "collisions_sd": 0.9367496997597597,
+  "severe_mean": 0.225
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 40.0,
+  "equipped": 0.5,
+  "runs": 40,
+  "collisions_mean": 0.5,
+  "collisions_sd": 0.806225774829855,
+  "severe_mean": 0.2
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 40.0,
+  "equipped": 0.75,
+  "runs": 40,
+  "collisions_mean": 0.2,
+  "collisions_sd": 0.5099019513592785,
+  "severe_mean": 0.075
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 40.0,
+  "equipped": 1.0,
+  "runs": 40,
+  "collisions_mean": 0.0,
+  "collisions_sd": 0.0,
+  "severe_mean": 0.0
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 60.0,
+  "equipped": 0.0,
+  "runs": 40,
+  "collisions_mean": 0.025,
+  "collisions_sd": 0.15612494995995996,
+  "severe_mean": 0.0
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 60.0,
+  "equipped": 0.1,
+  "runs": 40,
+  "collisions_mean": 0.025,
+  "collisions_sd": 0.15612494995995996,
+  "severe_mean": 0.0
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 60.0,
+  "equipped": 0.25,
+  "runs": 40,
+  "collisions_mean": 0.025,
+  "collisions_sd": 0.15612494995995996,
+  "severe_mean": 0.0
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 60.0,
+  "equipped": 0.5,
+  "runs": 40,
+  "collisions_mean": 0.025,
+  "collisions_sd": 0.15612494995995996,
+  "severe_mean": 0.0
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 60.0,
+  "equipped": 0.75,
+  "runs": 40,
+  "collisions_mean": 0.025,
+  "collisions_sd": 0.15612494995995996,
+  "severe_mean": 0.0
+ },
+ {
+  "profile": "careful",
+  "visibility_m": 60.0,
+  "equipped": 1.0,
+  "runs": 40,
+  "collisions_mean": 0.0,
+  "collisions_sd": 0.0,
+  "severe_mean": 0.0
+ }
+]
